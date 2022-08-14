@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Skyggefar
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning LUA
+- 📫 Reach me thru Discord: Skygge#6893
